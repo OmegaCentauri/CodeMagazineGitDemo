@@ -10,5 +10,6 @@ namespace CodeMagazineGitDemo
         {
             ConfigureAuth(app);
         }
+        //Development branch changes.
     }
 }
